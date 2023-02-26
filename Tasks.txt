@@ -1,0 +1,34 @@
+---G1--- Clasificador de rostros (Sonriendo, Enojado)
+Jonatan Arturo Mayanga Muñoz (Delegado)
+Bustamente Ruiz Stefany,
+Custodio  Zuñe Ramiro,
+Vera Molla Paul
+
+
+---G2--- Clasificador de manos (Derecha, Izquierda)
+Díaz Delgado Leidy Diana
+Gayoso Sánchez Nayelli
+Llauce Chapoñan Miguel (Delegado)
+
+---G3--- Clasificador de rostro (Ojos abiertos o cerrados)
+Bobadilla Chancafe Sheyla Milena, 
+Llauce Cajusol Maria Milagros, 
+Villajuan Salazar Jochua (Delegado)
+
+---G4--- Clasificador de manos (Alfabeto de señas B, C)
+Mayanga Huertas Yaker (Delegado)
+Ramírez Guevara Maikol
+Rangel Quispe Maricielo
+
+
+---G5--- Clasificador de manos (Alfabeto de señas A, I)
+Campos Llontop Miguel Jesús
+Huidobro Valderrama Karina,
+Oscar pardo yovera (delegado), 
+vidaurre santisteban Marcia
+
+
+---G6---Clasificador de manos (Alfabeto de señas R, S)
+Rodolfo Alfiery Furlong Millones
+Olenka Siomara Licham Lainez
+Josue Damian Castro
